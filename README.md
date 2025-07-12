@@ -1,20 +1,20 @@
-# Netflix Data Analysis
+# Netflix Data Analysis 📺
 
-This project is a simple data analysis using a public Netflix dataset.  
-It was created using Google Colab and Python (pandas and matplotlib).  
-It explores the types of content, top countries, release years, and most common genres.
+This project explores a public Netflix dataset using Python and Google Colab.  
+It focuses on discovering patterns in content type, production countries, release trends, and genres.
 
-## What you'll find
-
-- Number of movies vs TV shows
-- Top countries by content volume
-- Releases over time
-- Most common genres
-- Visualizations and conclusions
-
-## Tools used
-
+## 🔧 Tools used
 - Python
 - Pandas
 - Matplotlib
 - Google Colab
+
+## 📊 What this project shows
+- Number of Movies vs. TV Shows
+- Countries with most content
+- Releases by year
+- Most frequent genres
+- Simple charts and conclusions
+
+## 📁 Dataset
+Dataset used: [Netflix Movies and TV Shows - Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
